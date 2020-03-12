@@ -1,2 +1,0 @@
-# chooseyoaReact
-Created with CodeSandbox
